@@ -15,4 +15,6 @@ There is no unused content in this repository.
 There is no additional notes for this repository.
 
 ## Sets added to this repository
-There is no set in this repository.
+The date in front of each set represents the date when the set was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all sets included in this repository :
+
+- (December 9th, 2020) Set 2 : Rise of the Elements
