@@ -11,7 +11,7 @@ There is no additional content in this repository.
 ## Unused contents in this repository
 Because of the presence of all previous sets (which can still be downloaded from Riot Games servers), some contents which became unused in Teamfight Tactics are available in this repository. This content can be some deleted elements, or old versions of actual stuff. In the repository, you will find :
 
-- All previous sets of the game (Rise of the Elements)
+- All previous sets of the game (Rise of the Elements, Galaxies)
 
 ## Additional notes
 There is no additional notes for this repository.
@@ -19,5 +19,6 @@ There is no additional notes for this repository.
 ## Sets added to this repository
 The date in front of each set represents the date when the set was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all sets included in this repository :
 
+- (December 9th, 2020) Set 3 (update) : Galaxies - Return to the Stars
 - (December 9th, 2020) Set 3 : Galaxies
 - (December 9th, 2020) Set 2 : Rise of the Elements

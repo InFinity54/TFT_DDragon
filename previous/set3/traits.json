@@ -1,44 +1,5 @@
 [
   {
-    "key": "Astro",
-    "name": "Astro",
-    "description": "Astro Champions have reduced mana cost.",
-    "type": "origin",
-    "sets": [
-      {
-        "style": "gold",
-        "min": 3
-      }
-    ]
-  },
-  {
-    "key": "Battlecast",
-    "name": "Battlecast",
-    "description": "Battlecast Champions, upon dealing or taking 10 instances of damage, heal if below half health, or deal magic damage to the nearest enemy if above half.",
-    "type": "origin",
-    "sets": [
-      {
-        "style": "bronze",
-        "min": 2,
-        "max": 3
-      },
-      {
-        "style": "silver",
-        "min": 4,
-        "max": 5
-      },
-      {
-        "style": "gold",
-        "min": 6,
-        "max": 7
-      },
-      {
-        "style": "chromatic",
-        "min": 8
-      }
-    ]
-  },
-  {
     "key": "Set3_Blademaster",
     "name": "Blademaster",
     "description": "Blademasters' Basic Attacks have a chance to trigger two additional attacks against their target. These additional attacks deal damage like Basic Attacks and trigger on-hit effects.",
@@ -106,12 +67,12 @@
         "max": 3
       },
       {
-        "style": "gold",
+        "style": "silver",
         "min": 4,
         "max": 5
       },
       {
-        "style": "chromatic",
+        "style": "gold",
         "min": 6
       }
     ]
@@ -134,12 +95,7 @@
       },
       {
         "style": "gold",
-        "min": 6,
-        "max": 7
-      },
-      {
-        "style": "chromatic",
-        "min": 8
+        "min": 6
       }
     ]
   },
@@ -150,7 +106,7 @@
     "type": "origin",
     "sets": [
       {
-        "style": "bronze",
+        "style": "silver",
         "min": 3,
         "max": 5
       },
@@ -224,8 +180,13 @@
     "type": "class",
     "sets": [
       {
+        "style": "bronze",
+        "min": 2,
+        "max": 3
+      },
+      {
         "style": "gold",
-        "min": 2
+        "min": 4
       }
     ]
   },
@@ -267,18 +228,6 @@
       {
         "style": "gold",
         "min": 4
-      }
-    ]
-  },
-  {
-    "key": "Paragon",
-    "name": "Paragon",
-    "description": "Ally Star Guardian basic attacks are converted to true damage. All other ally basic attacks are converted to magic damage.",
-    "type": "class",
-    "sets": [
-      {
-        "style": "gold",
-        "min": 1
       }
     ]
   },
@@ -333,13 +282,8 @@
     "type": "class",
     "sets": [
       {
-        "style": "bronze",
-        "min": 2,
-        "max": 3
-      },
-      {
         "style": "gold",
-        "min": 4
+        "min": 2
       }
     ]
   },
@@ -400,12 +344,7 @@
       },
       {
         "style": "gold",
-        "min": 6,
-        "max": 8
-      },
-      {
-        "style": "chromatic",
-        "min": 9
+        "min": 6
       }
     ]
   },
@@ -418,6 +357,18 @@
       {
         "style": "gold",
         "min": 1
+      }
+    ]
+  },
+  {
+    "key": "Valkyrie",
+    "name": "Valkyrie",
+    "description": "Valkyrie attacks and spells always critically hit targets below a percentage health.",
+    "type": "origin",
+    "sets": [
+      {
+        "style": "gold",
+        "min": 2
       }
     ]
   },
@@ -435,6 +386,18 @@
       {
         "style": "gold",
         "min": 4
+      }
+    ]
+  },
+  {
+    "key": "Set3_Void",
+    "name": "Void",
+    "description": "Attacks and spells from Void champions deal true damage.",
+    "type": "origin",
+    "sets": [
+      {
+        "style": "gold",
+        "min": 3
       }
     ]
   }
