@@ -21,6 +21,7 @@ There is no additional notes for this repository.
 ## Sets added to this repository
 The date in front of each set represents the date when the set was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all sets included in this repository :
 
+- (May 1th, 2021) Set 5 : Reckoning
 - (January 21th, 2021) Set 4 (update) : Fates - Festival of Beasts
 - (December 9th, 2020) Set 4 : Fates
 - (December 9th, 2020) Set 3 (update) : Galaxies - Return to the Stars
