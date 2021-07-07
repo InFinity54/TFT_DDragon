@@ -191,7 +191,7 @@
   {
     "id": 34,
     "name": "Archangel's Staff",
-    "description": "Each time the holder casts their Ability, they gain Ability Power equal to a percentage of their maximum Mana.",
+    "description": "Each time the holder casts their Ability, they gain Ability Power equal to a percentage of their maximum Mana (this bonus applies to that Ability cast).",
     "isUnique": false,
     "isShadow": false
   },
@@ -459,7 +459,7 @@
   {
     "id": 1013,
     "name": "Hextech Gunblade Of Immortality",
-    "description": "The holder's magic and true damage from Abilities heals the nearest ally with missing Health for a percentage of the damage dealt.",
+    "description": "The holder's magic and true damage from Abilities heals the ally with the lowest percent Health for a percentage of the damage dealt.",
     "isUnique": false,
     "isShadow": true,
     "shadowPenalty": "This heal cannot affect the holder."
@@ -620,10 +620,11 @@
   {
     "id": 1039,
     "name": "Sacrificial Gauntlet",
-    "description": "The holder's magic and true damage from their Ability can critically strike. The holder gains bonus Critical Strike Damage and bonus Critical Strike Chance.",
+    "description": "The holder gains Critical Strike Damage, and magic and true damage from their Ability can critically strike.",
     "isUnique": false,
     "isShadow": true,
-    "shadowPenalty": "Each time the holder casts their Ability, they deal a percentage of their maximum Health to themselves as true damage."
+    "shadowBonus": "The first time the holder casts their Ability each combat, they gain additional Critical Strike Chance for the remainder of combat (applies to that Ability cast).",
+    "shadowPenalty": "Each time the holder casts their Ability, they take true damage equal to a percentage of their max Mana."
   },
   {
     "id": 1044,
@@ -631,7 +632,7 @@
     "description": "After casting their Ability, the holder gains Mana.",
     "isUnique": true,
     "isShadow": true,
-    "shadowBonus": "If the holder is below a percentage of their Health, the Mana gained is increased."
+    "shadowBonus": "If the holder has less than a percentage of their Health, the Mana gained is increased."
   },
   {
     "id": 1045,
@@ -756,8 +757,8 @@
   },
   {
     "id": 1079,
-    "name": "Vengeful Trap Claw",
-    "description": "Blocks the first enemy Ability that hits the holder, then teleports them to the Ability's caster, and causes both units to start targeting each other. They deal increased damage to each other.",
+    "name": "Banshee's Claw",
+    "description": "When combat begins, the holder and all nearby allies in the same row gain a shield that blocks the first enemy Ability.",
     "isUnique": true,
     "isShadow": true
   },

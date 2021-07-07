@@ -177,7 +177,12 @@
       },
       {
         "style": "gold",
-        "min": 4
+        "min": 4,
+        "max": 5
+      },
+      {
+        "style": "chromatic",
+        "min": 6
       }
     ]
   },
@@ -279,7 +284,12 @@
       },
       {
         "style": "gold",
-        "min": 3
+        "min": 3,
+        "max": 3
+      },
+      {
+        "style": "chromatic",
+        "min": 4
       }
     ]
   },
@@ -433,7 +443,12 @@
       },
       {
         "style": "gold",
-        "min": 4
+        "min": 4,
+        "max": 5
+      },
+      {
+        "style": "chromatic",
+        "min": 6
       }
     ]
   },
@@ -452,6 +467,10 @@
         "style": "gold",
         "min": 3,
         "max": 3
+      },
+      {
+        "style": "chromatic",
+        "min": 4
       }
     ]
   },
@@ -485,7 +504,12 @@
       },
       {
         "style": "gold",
-        "min": 4
+        "min": 4,
+        "max": 5
+      },
+      {
+        "style": "chromatic",
+        "min": 6
       }
     ]
   },
