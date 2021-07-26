@@ -2,6 +2,9 @@
 
 Do you want to use DDragon for _League of Legends_? [Check the _League of Legends_ repository here](https://github.com/InFinity54/LoL_DDragon).
 
+## IMPORTANT NOTE (written on July 26th, 2021)
+It seems that Riot forgot to update Data Dragon for TFT. Currently, it concerns update for Set 5 (Reckoning - Dawn of Heroes). I'm still checking frequently Riot Developers' Portal to download and publish the update when it's available, but it will take some days (or maybe weeks...).
+
 ## Introduction
 _Data Dragon_ is a package of files you can use for your projects about [_Teamfight Tactics_](https://teamfighttactics.leagueoflegends.com), distributed by Riot Games. A new version of Data Dragon is released some days after each new set release. This repository allows you to update automatically all files more easily.
 
