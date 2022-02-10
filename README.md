@@ -10,7 +10,8 @@ Don't forget that new patchs will be added right after their release on Riot Gam
 ## Additional contents in this repository
 This repository contains some additional files, not included in Data Dragon :
 
-- Icons of all turbo badges (used for some gamemodes, like _Hyper Roll_ and  _Double Up_)
+- Icons of all turbo badges (used for _Hyper Roll_ game mode)
+- Icons of all _Double Up_ badges (used for _Double Up_ game mode)
 
 ## Unused contents in this repository
 Because of the presence of all previous sets (which can still be downloaded from Riot Games servers), some contents which became unused in _Teamfight Tactics_ are available in this repository. This content can be some deleted elements, or old versions of actual stuff. In the repository, you will find :
