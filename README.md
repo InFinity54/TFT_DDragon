@@ -2,6 +2,9 @@
 
 Do you want to use DDragon for an another game from _Riot Games_? Check the [_Data Dragon_ repository for _League of Legends_](https://github.com/InFinity54/LoL_DDragon) or the [_Valorant_ one](https://github.com/InFinity54/Valorant_DDragon).
 
+## Important note (written on 03.07.2022)
+It seems that _Riot Games_ doesn't release any _Data Dragon_ pack for _Teamfight Tactics_ anymore. Like I've done with set 6, I'm going to try to add some assets of future sets from [_CommunityDragon_](https://communitydragon.org), until _Riot_ start to release _Data Dragon_ packs again.
+
 ## Introduction
 _Data Dragon_ is a package of files you can use for your projects about [_Teamfight Tactics_](https://teamfighttactics.leagueoflegends.com), distributed by Riot Games. A new version of Data Dragon is released some days after each new set release. This repository allows you to update automatically all files more easily.
 
