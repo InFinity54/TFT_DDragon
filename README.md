@@ -29,6 +29,7 @@ Because of the presence of all previous sets (which can still be downloaded from
 ## Sets added to this repository
 The date in front of each set represents the date when the set was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all sets included in this repository :
 
+- (July 17th, 2022) Set 7 : Dragonlands [from [CDragon](https://raw.communitydragon.org/latest/cdragon/tft/) and official game files - not yet released by _Riot Games_]
 - (February 10th, 2022) Set 6 : Gizmos & Gadgets [partially, from [CDragon](https://raw.communitydragon.org/latest/cdragon/tft/) and [Set 6 Promo Assets Page](https://spark.adobe.com/page/ficXgtBZ0f3xd/) - not yet released by _Riot Games_]
 - (August 1st, 2021) Set 5 (update) : Reckoning - Dawn of Heroes
 - (May 1th, 2021) Set 5 : Reckoning
