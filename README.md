@@ -1,6 +1,6 @@
 # _Teamfight Tactics_ - Data Dragon
 
-Do you want to use DDragon for an another game from _Riot Games_? Check the [_Data Dragon_ repository for _League of Legends_](https://github.com/InFinity54/LoL_DDragon) or the [_Valorant_ one](https://github.com/InFinity54/Valorant_DDragon).
+Do you want to use DDragon for an another game from _Riot Games_? Check the [_Data Dragon_ repository for _League of Legends_](https://github.com/InFinity54/LoL_DDragon), [for _Legends of Runeterra_](https://github.com/InFinity54/LoR_DDragon) or the [_Valorant_ one](https://github.com/InFinity54/Valorant_DDragon).
 
 ## Important note about repository's updates
 It seems that _Riot Games_ doesn't release any _Data Dragon_ pack for _Teamfight Tactics_ anymore. Since set 6, I'm trying to manually add some assets of new sets from [_CommunityDragon_](https://communitydragon.org) and official game extracted files, until _Riot_ start to release _Data Dragon_ packs again.
