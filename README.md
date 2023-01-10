@@ -9,6 +9,8 @@ It seems that _Riot Games_ doesn't release any _Data Dragon_ pack for _Teamfight
 * Sets manually added can be partial, and some data and/or images can be unavailable.
 * Mid-sets will not be released in this repository until an official release from _Riot Games_.
 
+Additional notes: Since patch 13.1 of _League of Legends_, files of _Teamfight Tactics_ seems to be added to the [_Data Dragon_'s files of _League of Legends_](https://github.com/InFinity54/LoL_DDragon). These files will need some additional work before being added to this repository, but this work will be done.
+
 ## Introduction
 _Data Dragon_ is a package of files you can use for your projects about [_Teamfight Tactics_](https://teamfighttactics.leagueoflegends.com), distributed by Riot Games. A new version of Data Dragon is released some days after each new set release. This repository allows you to update automatically all files more easily.
 
