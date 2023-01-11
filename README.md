@@ -2,15 +2,6 @@
 
 Do you want to use DDragon for an another game from _Riot Games_? Check the [_Data Dragon_ repository for _League of Legends_](https://github.com/InFinity54/LoL_DDragon), [for _Legends of Runeterra_](https://github.com/InFinity54/LoR_DDragon) or the [_Valorant_ one](https://github.com/InFinity54/Valorant_DDragon).
 
-## Important note about repository's updates
-It seems that _Riot Games_ doesn't release any _Data Dragon_ pack for _Teamfight Tactics_ anymore. Since set 6, I'm trying to manually add some assets of new sets from [_CommunityDragon_](https://communitydragon.org) and official game extracted files, until _Riot_ start to release _Data Dragon_ packs again.
-
-* This manual update can take a few weeks to be done.
-* Sets manually added can be partial, and some data and/or images can be unavailable.
-* Mid-sets will not be released in this repository until an official release from _Riot Games_.
-
-Additional notes: Since patch 13.1 of _League of Legends_, files of _Teamfight Tactics_ seems to be added to the [_Data Dragon_'s files of _League of Legends_](https://github.com/InFinity54/LoL_DDragon). These files will need some additional work before being added to this repository, but this work will be done.
-
 ## Introduction
 _Data Dragon_ is a package of files you can use for your projects about [_Teamfight Tactics_](https://teamfighttactics.leagueoflegends.com), distributed by Riot Games. A new version of Data Dragon is released some days after each new set release. This repository allows you to update automatically all files more easily.
 
@@ -31,6 +22,7 @@ Because of the presence of all previous sets (which can still be downloaded from
 ## Sets added to this repository
 The date in front of each set represents the date when the set was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all sets included in this repository :
 
+- (January 11th, 2023) Set 8 : Monsters Attack [from [_League of Legends_ _Data Dragon_'s repository](https://github.com/InFinity54/LoL_DDragon)]
 - (July 17th, 2022) Set 7 : Dragonlands [from [CDragon](https://raw.communitydragon.org/latest/cdragon/tft/) and official game files - not yet released by _Riot Games_]
 - (February 10th, 2022) Set 6 : Gizmos & Gadgets [partially, from [CDragon](https://raw.communitydragon.org/latest/cdragon/tft/) and [Set 6 Promo Assets Page](https://spark.adobe.com/page/ficXgtBZ0f3xd/) - not yet released by _Riot Games_]
 - (August 1st, 2021) Set 5 (update) : Reckoning - Dawn of Heroes
@@ -41,10 +33,12 @@ The date in front of each set represents the date when the set was pushed to thi
 - (December 9th, 2020) Set 3 : Galaxies
 - (December 9th, 2020) Set 2 : Rise of the Elements
 
-## Important note about Set 6 (and maybe for Set 6 update too)
-Set 6 has been added with some assets available on the [Set 6 Promo Assets Page](https://spark.adobe.com/page/ficXgtBZ0f3xd/) (published by _Riot Games_) or/and on [_CommunityDragon_](https://raw.communitydragon.org/latest/cdragon/tft/).
+## Important information
 
-This has needed because _Riot Games_ didn't release at all an official version of _Data Dragon_ for the sixth set of _Teamfight Tactics_. You need to keep in mind that this set is partially complete, and it can contains some mistakes. Feel free to help me to improve that set if you can (issues are open if you want to)!
+### Note about Sets 6 and 7
+Set 6 has been added with some assets available on the [Set 6 Promo Assets Page](https://express.adobe.com/page/ficXgtBZ0f3xd/) (published by _Riot Games_) or/and on [_CommunityDragon_](https://raw.communitydragon.org/latest/cdragon/tft/). Set 7 used the same process, but only with _CommunityDragon_.
+
+This was needed because _Riot Games_ didn't release at all an official version of _Data Dragon_ for these sets of _Teamfight Tactics_. Keep in mind that they are partially complete, and it can contains some mistakes. Feel free to help me to improve these sets if you can (issues are open if you want to)!
 
 Due to what I said just above, keep in mind that `items.json`, `champions.json` and `traits.json` files can contains some elements from previous sets, which are not used anymore. Some items pictures can be missing or incorrect too.
 
@@ -55,4 +49,7 @@ There is also some differences between official _Data Dragon_ files and the temp
 - In `items.json`, the `description` contains some variables strings (like `@Duration@`), which are not included.
 - In `items.json`, `isElusive` and `isRadiant` doesn't exists.
 
-Set 6 has been recreated, in prevision of the release of set 6 update in patch 12.4 (planned for February 16th, 2022). It will be replaced by the official _Data Dragon_ if _Riot Games_ finally release it, even in the future.
+Sets 6 and 7 have been recreated, but their corresponding mid-sets will not be available in this repository. Data about these two sets will be replaced by the official _Data Dragon_ data, if _Riot Games_ finally release it one day.
+
+## Note about repository's updates
+Since patch 13.1 of _League of Legends_, files of _Teamfight Tactics_ seems to be added to the [_Data Dragon_'s files of _League of Legends_](https://github.com/InFinity54/LoL_DDragon). Due to this change, all JSON files of this repository will have a different structure, starting with set 8.
