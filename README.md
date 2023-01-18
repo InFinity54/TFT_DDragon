@@ -7,6 +7,9 @@ _Data Dragon_ is a package of files you can use for your projects about [_Teamfi
 
 Don't forget that new patchs will be added right after their release on Riot Games' Developers website, but it takes often many days to come.
 
+## Note about repository's updates
+Since patch 13.1 of _League of Legends_, files of _Teamfight Tactics_ seems to be added to the [_Data Dragon_'s files of _League of Legends_](https://github.com/InFinity54/LoL_DDragon). Due to this change, all JSON files of this repository will have a different structure, starting with set 8.
+
 ## Additional contents in this repository
 This repository contains some additional files, not included in Data Dragon :
 
@@ -33,9 +36,7 @@ The date in front of each set represents the date when the set was pushed to thi
 - (December 9th, 2020) Set 3 : Galaxies
 - (December 9th, 2020) Set 2 : Rise of the Elements
 
-## Important information
-
-### Note about Sets 6 and 7
+## Note about Sets 6 and 7
 Set 6 has been added with some assets available on the [Set 6 Promo Assets Page](https://express.adobe.com/page/ficXgtBZ0f3xd/) (published by _Riot Games_) or/and on [_CommunityDragon_](https://raw.communitydragon.org/latest/cdragon/tft/). Set 7 used the same process, but only with _CommunityDragon_.
 
 This was needed because _Riot Games_ didn't release at all an official version of _Data Dragon_ for these sets of _Teamfight Tactics_. Keep in mind that they are partially complete, and it can contains some mistakes. Feel free to help me to improve these sets if you can (issues are open if you want to)!
@@ -50,6 +51,3 @@ There is also some differences between official _Data Dragon_ files and the temp
 - In `items.json`, `isElusive` and `isRadiant` doesn't exists.
 
 Sets 6 and 7 have been recreated, but their corresponding mid-sets will not be available in this repository. Data about these two sets will be replaced by the official _Data Dragon_ data, if _Riot Games_ finally release it one day.
-
-## Note about repository's updates
-Since patch 13.1 of _League of Legends_, files of _Teamfight Tactics_ seems to be added to the [_Data Dragon_'s files of _League of Legends_](https://github.com/InFinity54/LoL_DDragon). Due to this change, all JSON files of this repository will have a different structure, starting with set 8.
