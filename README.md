@@ -7,8 +7,8 @@ _Data Dragon_ is a package of files you can use for your projects about [_Teamfi
 
 Don't forget that new patchs will be added right after their release on Riot Games' Developers website, but it takes often many days to come.
 
-## Note about repository's updates
-Since patch 13.1 of _League of Legends_, files of _Teamfight Tactics_ seems to be added to the [_Data Dragon_'s files of _League of Legends_](https://github.com/InFinity54/LoL_DDragon). Due to this change, all JSON files of this repository will have a different structure, starting with set 8.
+## Important note about repository folder tree
+Starting with set 8 update (also called mid-set patch), released with patch 13.6 of _League of Legends_, the repository folders will also changed, and will be using a new folder tree, partially based on the one included in _League of Legends_ _Data Dragon_.
 
 ## Additional contents in this repository
 This repository contains some additional files, not included in Data Dragon :
@@ -25,6 +25,7 @@ Because of the presence of all previous sets (which can still be downloaded from
 ## Sets added to this repository
 The date in front of each set represents the date when the set was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all sets included in this repository :
 
+- (March 21st, 2023) Set 8 (update) : Monsters Attack - Glitched Out [from [_League of Legends_ _Data Dragon_'s repository](https://github.com/InFinity54/LoL_DDragon)]
 - (January 11th, 2023) Set 8 : Monsters Attack [from [_League of Legends_ _Data Dragon_'s repository](https://github.com/InFinity54/LoL_DDragon)]
 - (July 17th, 2022) Set 7 : Dragonlands [from [CDragon](https://raw.communitydragon.org/latest/cdragon/tft/) and official game files - not yet released by _Riot Games_]
 - (February 10th, 2022) Set 6 : Gizmos & Gadgets [partially, from [CDragon](https://raw.communitydragon.org/latest/cdragon/tft/) and [Set 6 Promo Assets Page](https://spark.adobe.com/page/ficXgtBZ0f3xd/) - not yet released by _Riot Games_]
@@ -51,3 +52,6 @@ There is also some differences between official _Data Dragon_ files and the temp
 - In `items.json`, `isElusive` and `isRadiant` doesn't exists.
 
 Sets 6 and 7 have been recreated, but their corresponding mid-sets will not be available in this repository. Data about these two sets will be replaced by the official _Data Dragon_ data, if _Riot Games_ finally release it one day.
+
+## Note about repository's updates for set 8
+Since patch 13.1 of _League of Legends_, files of _Teamfight Tactics_ seems to be added to the [_Data Dragon_'s files of _League of Legends_](https://github.com/InFinity54/LoL_DDragon). Due to this change, all JSON files of this repository will have a different structure, starting with set 8.
