@@ -8,9 +8,9 @@ _Data Dragon_ is a package of files you can use for your projects about [_Teamfi
 Don't forget that new patchs will be added right after their release on Riot Games' Developers website, but it takes often many days to come.
 
 ## Important note about this repository
-Starting patch 13.12 of _League of Legends_, this repository will not be updated anymore. This can be explained by the _League of Legends_ _Data Dragon_, which includes all data from _Teamfight Tactics_ for many patchs. If you want to use old data from _Teamfight Tactics_, you can still use this repository. Starting set 9, you will need to use the [_Data Dragon_ repository for _League of Legends_](https://github.com/InFinity54/LoL_DDragon).
+Starting patch 13.12 of _League of Legends_, this repository will not be updated anymore. This can be explained by the _League of Legends_ _Data Dragon_, which includes all data from _Teamfight Tactics_ for many patchs now. If you want to use old data from _Teamfight Tactics_, you can still use this repository. Starting set 9, you will need to use the [_Data Dragon_ repository for _League of Legends_](https://github.com/InFinity54/LoL_DDragon).
 
-Note that all additional contents from this repository has been included in additional content of the _League of Legends_ _ Data Dragon_ repository.
+Note that all additional contents from this repository has been included in additional content of the _League of Legends_ _Data Dragon_ repository.
 
 ## Additional contents in this repository
 This repository contains some additional files, not included in Data Dragon :
